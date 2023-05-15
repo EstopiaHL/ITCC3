@@ -5,8 +5,14 @@ body {
 }
 
 .myDiv {
-	border: outset red;
+	border: outset white;
 	background-color: lightblue;
+	background-image: linear-gradient(to bottom right, lightblue, Lavender);
+	text-align: center;
+}
+
+.Title
+{
 	text-align: center;
 }
 
@@ -30,6 +36,18 @@ nav li {
 nav a {
 	color: #fff;
 	text-decoration: none;
+}
+
+.ItemType{
+	color: #fff;
+	text-decoration: none;
+	display: inline-block;
+	margin-right: 20px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background-color: #333;
+	padding: 10px;
 }
 
 main {
