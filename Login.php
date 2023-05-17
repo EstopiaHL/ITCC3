@@ -21,6 +21,9 @@
                   <input type="submit" value="Login">
                </div>
             </form>
+             <p>
+              <a href="SignUP.php">Sign up</a> for free
+            </p>
          </div>
       </div>
    </body>
